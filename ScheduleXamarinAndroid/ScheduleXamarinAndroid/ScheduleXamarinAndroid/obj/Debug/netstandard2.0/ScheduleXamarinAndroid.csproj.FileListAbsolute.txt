@@ -1,0 +1,10 @@
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\bin\Debug\netstandard2.0\ScheduleXamarinAndroid.deps.json
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\bin\Debug\netstandard2.0\ScheduleXamarinAndroid.dll
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\bin\Debug\netstandard2.0\ScheduleXamarinAndroid.pdb
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.csproj.CoreCompileInputs.cache
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.App.xaml.g.cs
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.MainPage.xaml.g.cs
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.AssemblyInfoInputs.cache
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.AssemblyInfo.cs
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.dll
+D:\Proyectos\Xamarin\ScheduleXamarinAndroid\ScheduleXamarinAndroid\ScheduleXamarinAndroid\obj\Debug\netstandard2.0\ScheduleXamarinAndroid.pdb
